@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mferdiyanzah
 - 👀 I’m interested in backend and machine learning
-- 🌱 I’m currently learning NLP and laravel
+- 🌱 I’m currently learning NLP and MERN
 
 <!---
 mferdiyanzah/mferdiyanzah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
