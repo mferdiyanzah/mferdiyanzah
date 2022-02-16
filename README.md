@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mferdiyanzah
-- 👀 I’m interested in backend and machine learning
-- 🌱 I’m currently learning MERN
+- 👀 I’m interested in frontend and machine learning
+- 🌱 I’m currently learning Next.js
 
 <!---
 mferdiyanzah/mferdiyanzah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
